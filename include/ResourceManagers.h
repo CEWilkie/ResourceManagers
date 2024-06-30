@@ -1,0 +1,11 @@
+//
+// Created by cew05 on 17/06/2024.
+//
+
+#ifndef RESOURCEMANAGERLIB_RESOURCEMANAGERS_H
+#define RESOURCEMANAGERLIB_RESOURCEMANAGERS_H
+
+#include "GenericManager.h"
+#include "TextureManager.h"
+
+#endif //RESOURCEMANAGERLIB_RESOURCEMANAGERS_H
